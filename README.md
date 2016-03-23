@@ -1,5 +1,5 @@
 # Gray-Scale-And-Negative-Images
-This project takes multiple image pictures and converts them into their grayscale or negative equivalent. It comprises of two files: one for grayscale and the other for negative conversion.Both converters make use of the Java Image Resource library.
+This project takes multiple image pictures and converts them into their grayscale or negative equivalent. It comprises of two files. One contains code for grayscale conversion and the other for negative transformation.Both converters make use of the Java Image Resource library.
 
 Details of each of these project is given below:
 
