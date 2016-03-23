@@ -1,7 +1,7 @@
 # Gray-Scale-And-Negative-Images
-This project involved writing a Java software that would take as input different image pictures and convert them into grayscale and negative images as per user requirement. The software involved use of Java's Image Resource library and provides the user with the ability to maniputlate and play around with digital photographs and images.
+This project takes multiple image pictures and converts them into their grayscale or negative equivalent. It comprises of two files: one for grayscale and the other for negative conversion.Both converters make use of the Java Image Resource library.
 
-Details of each of these projects is given below:
+Details of each of these project is given below:
 
 Grayscale
 Grayscale is the conversion of a colored image into black-and-white. This project allows the user to select multiple pictures and convert them into their gray-scale equivalent. A sample conversion is given below:
